@@ -1,0 +1,15 @@
+# define optimizer
+print("---define optimizer...")
+optimizer = optim.Adam(model.parameters(), lr=0.001, betas=(0.9, 0.999), eps=1e-08, weight_decay=0)
+
+# set train process parameters
+print("---start training...")
+ite_num = 0
+running_loss = 0.0
+running_tar_loss = 0.0
+ite_num4val = 0
+save_frq = 2000 # save the model every 2000 iterations
+
+# set loss
+b_loss= BinaryCrossEntropyLoss()
+cc_loss=CrossCorrelationLoss([64,64])
