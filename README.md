@@ -10,33 +10,52 @@ context-aware learning network for salient object detection
 
 换天结果展示：
 
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t1.jpg" width="100" height="150" border="2" hspace="10">
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t1.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t1.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t1_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t2.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t2.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t2.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t2_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t3.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t3.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t3.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t3_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t4.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t4.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t4.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t4_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t5.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t5.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t5.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t5_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t6.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t6.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t6.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t6_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t7.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t7.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t7.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t7_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t8.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t8.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t8.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t8_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
-<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t9.jpg" width="100" height="150" border="2" hspace="10">
+</p>
+<p float="left">
+<img src="https://github.com/lzylyx/CLN-SOD-/blob/main/test_images/t9.jpg" width="200" height="300" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t9.png" width="100" height="150" border="2" hspace="10">
 <img src="https://github.com/lzylyx/CLN-SOD-/blob/main/fusion_results/t9_fusion.jpg" width="100" height="150" border="2" hspace="10"><br/>
+</p>
+
 
 
 使用说明：
